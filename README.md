@@ -40,7 +40,7 @@ Repositório com laboratórios práticos de AWS organizados por domínio de prod
 ## Labs
 
 <details>
-<summary>👉 <b>⚡ Serverless</b> (7 Labs)</summary>
+<summary><b>⚡ Serverless</b> (7 Labs)</summary>
 <br>
 
 
@@ -73,7 +73,7 @@ Repositório com laboratórios práticos de AWS organizados por domínio de prod
 
 </details>
 <details>
-<summary>👉 <b>🔒 Segurança, Identidade e Compliance</b> (8 Labs)</summary>
+<summary><b>🔒 Segurança, Identidade e Compliance</b> (8 Labs)</summary>
 <br>
 
 
@@ -110,7 +110,7 @@ Repositório com laboratórios práticos de AWS organizados por domínio de prod
 
 </details>
 <details>
-<summary>👉 <b>🌐 Rede e Entrega de Conteúdo</b> (3 Labs)</summary>
+<summary><b>🌐 Rede e Entrega de Conteúdo</b> (3 Labs)</summary>
 <br>
 
 
@@ -127,7 +127,7 @@ Repositório com laboratórios práticos de AWS organizados por domínio de prod
 
 </details>
 <details>
-<summary>👉 <b>📦 Storage</b> (4 Labs)</summary>
+<summary><b>📦 Storage</b> (4 Labs)</summary>
 <br>
 
 
@@ -148,7 +148,7 @@ Repositório com laboratórios práticos de AWS organizados por domínio de prod
 
 </details>
 <details>
-<summary>👉 <b>🗄️ Database</b> (3 Labs)</summary>
+<summary><b>🗄️ Database</b> (3 Labs)</summary>
 <br>
 
 
@@ -165,7 +165,7 @@ Repositório com laboratórios práticos de AWS organizados por domínio de prod
 
 </details>
 <details>
-<summary>👉 <b>🖥️ Compute</b> (4 Labs)</summary>
+<summary><b>🖥️ Compute</b> (4 Labs)</summary>
 <br>
 
 

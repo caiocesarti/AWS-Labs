@@ -40,7 +40,7 @@ Repository with practical AWS labs organized by product domain. Each lab documen
 ## Labs
 
 <details>
-<summary>👉 <b>⚡ Serverless</b> (7 Labs)</summary>
+<summary><b>⚡ Serverless</b> (7 Labs)</summary>
 <br>
 
 
@@ -73,7 +73,7 @@ Repository with practical AWS labs organized by product domain. Each lab documen
 
 </details>
 <details>
-<summary>👉 <b>🔒 Security, Identity, and Compliance</b> (8 Labs)</summary>
+<summary><b>🔒 Security, Identity, and Compliance</b> (8 Labs)</summary>
 <br>
 
 
@@ -110,7 +110,7 @@ Repository with practical AWS labs organized by product domain. Each lab documen
 
 </details>
 <details>
-<summary>👉 <b>🌐 Network and Content Delivery</b> (3 Labs)</summary>
+<summary><b>🌐 Network and Content Delivery</b> (3 Labs)</summary>
 <br>
 
 
@@ -127,7 +127,7 @@ Repository with practical AWS labs organized by product domain. Each lab documen
 
 </details>
 <details>
-<summary>👉 <b>📦 Storage</b> (4 Labs)</summary>
+<summary><b>📦 Storage</b> (4 Labs)</summary>
 <br>
 
 
