@@ -39,67 +39,152 @@ Repository with practical AWS labs organized by product domain. Each lab documen
 
 ## Labs
 
-### ⚡ Serverless
+<details>
+<summary>👉 <b>⚡ Serverless</b> (7 Labs)</summary>
+<br>
 
-| #   | Lab                                                                        | Description                                             | Level          |
-| --- | -------------------------------------------------------------------------- | ------------------------------------------------------- | -------------- |
-| 01  | [AWS Lambda Introduction](./labs/6-serverless/01-lambda-introduction/)     | Automatic image resizing with S3 Triggers               | 🔴 Advanced     |
-| 02  | [Lambda Aliases + API Gateway](./labs/6-serverless/02-lambda-api-gateway/) | dev/prod stage isolation with aliases and `$LATEST`     | 🟡 Intermediate |
-| 03  | [Lambda + EventBridge](./labs/6-serverless/03-lambda-eventbridge/)         | Cron scheduler for automated EC2 instance shutdown      | 🔴 Advanced     |
-| 04  | [Lambda + S3 + API Gateway](./labs/6-serverless/04-lambda-s3-game/)        | Serverless full-stack web app — guessing game           | 🟡 Intermediate |
-| 05  | [SNS + SQS + DLQ](./labs/6-serverless/05-sns-sqs-dlq/)                     | Pub/Sub with failure isolation via Dead-Letter Queue    | 🟡 Intermediate |
-| 06  | [Fan-Out SNS → SQS](./labs/6-serverless/06-sns-sqs-fanout/)                | Fan-out topology with attribute-based message filtering | 🔴 Advanced     |
-| 07  | [S3 Event Notifications](./labs/6-serverless/07-s3-sns-sqs-events/)        | Audit triggered by native bucket events                 | 🔴 Advanced     |
 
-### 🔒 Security, Identity, and Compliance
+- **01. [AWS Lambda Introduction](./labs/6-serverless/01-lambda-introduction/)** | `🔴 Advanced`
+  > Automatic image resizing with S3 Triggers
 
-| #   | Lab                                                                                        | Description                                                    | Level          |
-| --- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------- | -------------- |
-| 01  | [Introduction to AWS IAM](./labs/5-security-identity-compliance/01-iam-introduction/)      | User, group, and access policy management (least privilege)    | 🟢 Foundational |
-| 02  | [AWS STS: Temporary Credentials](./labs/5-security-identity-compliance/02-aws-sts/)        | Programmatic `AssumeRole` for access without permanent keys    | 🟢 Foundational |
-| 03  | [IAM: S3 ReadOnly](./labs/5-security-identity-compliance/03-iam-s3-readonly/)              | Least privilege with Managed Groups for restricted access      | 🟢 Foundational |
-| 04  | [AWS Budgets](./labs/5-security-identity-compliance/04-aws-budgets/)                       | Expense control with threshold alerts via email                | 🟢 Foundational |
-| 05  | [CloudWatch + CloudTrail](./labs/5-security-identity-compliance/05-cloudwatch-cloudtrail/) | EC2 monitoring under load + API call auditing                  | 🟡 Intermediate |
-| 06  | [SSM Parameter Store + KMS](./labs/5-security-identity-compliance/06-ssm-parameter-store/) | Secret management with AES-256 encryption via KMS              | 🟡 Intermediate |
-| 07  | [Basic Environment Audit](./labs/5-security-identity-compliance/07-aws-basic-audit/)       | IAM, VPC Security analysis, and log auditing in CloudTrail/S3  | 🟡 Intermediate |
-| 08  | [AWS KMS: Key Management](./labs/5-security-identity-compliance/08-aws-kms-introduction/)  | Symmetric key lifecycle, SSE-KMS, and auditing with CloudTrail | 🟡 Intermediate |
 
-### 🌐 Network and Content Delivery
+- **02. [Lambda Aliases + API Gateway](./labs/6-serverless/02-lambda-api-gateway/)** | `🟡 Intermediate`
+  > dev/prod stage isolation with aliases and `$LATEST`
 
-| #   | Lab                                                                                      | Description                                       | Level          |
-| --- | ---------------------------------------------------------------------------------------- | ------------------------------------------------- | -------------- |
-| 01  | [Amazon VPC](./labs/4-network-and-content-delivery/01-vpc-introduction/)                 | Public/private subnets, NAT Gateway, IGW, and AZs | 🟢 Foundational |
-| 02  | [Amazon CloudFront](./labs/4-network-and-content-delivery/02-cloudfront-introduction/)   | CDN with distribution via Edge Locations          | 🟢 Foundational |
-| 03  | [Amazon API Gateway](./labs/4-network-and-content-delivery/03-api-gateway-introduction/) | Serverless microservice with Lambda integration   | 🟢 Foundational |
 
-### 📦 Storage
+- **03. [Lambda + EventBridge](./labs/6-serverless/03-lambda-eventbridge/)** | `🔴 Advanced`
+  > Cron scheduler for automated EC2 instance shutdown
 
-| #   | Lab                                                                    | Description                                                                    | Level          |
-| --- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------ | -------------- |
-| 01  | [S3: Introduction and Policies](./labs/2-storage/01-s3-introduction/)  | Bucket Policies (JSON), Block Public Access (BPA), and Recovery via Versioning | 🟡 Intermediate |
-| 02  | [S3: Advanced Management](./labs/2-storage/02-s3-advanced-management/) | Versioning, Lifecycle, Pre-signed URLs, and Server Access Logs                 | 🟢 Foundational |
-| 03  | [S3: Basic & Advanced](./labs/2-storage/03-s3-basic-advanced/)         | Storage class automation and temporary URLs                                    | 🟢 Foundational |
-| 04  | [EBS: Volumes and Snapshots](./labs/2-storage/04-ebs-mount-snapshots/) | ext4 mount via CLI and retention policies with DLM                             | 🟡 Intermediate |
 
-### 🗄️ Database
+- **04. [Lambda + S3 + API Gateway](./labs/6-serverless/04-lambda-s3-game/)** | `🟡 Intermediate`
+  > Serverless full-stack web app — guessing game
 
-| #   | Lab                                                                                   | Description                                                  | Level          |
-| --- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------ | -------------- |
-| 01  | [Introduction to Amazon DynamoDB](./labs/3-database/01-amazon-dynamodb-introduction/) | Table creation, item insertion, and Query vs Scan operations | 🟢 Foundational |
-| 02  | [DynamoDB Serverless CRUD](./labs/3-database/02-dynamodb-lambda-crud/)                | REST API with Lambda + Boto3 on NoSQL table                  | 🟡 Intermediate |
-| 03  | [DynamoDB LSI & GSI](./labs/3-database/03-dynamodb-lsi-gsi/)                          | Query optimization — Scan vs Query and index rotation        | 🟡 Intermediate |
 
-### 🖥️ Compute
+- **05. [SNS + SQS + DLQ](./labs/6-serverless/05-sns-sqs-dlq/)** | `🟡 Intermediate`
+  > Pub/Sub with failure isolation via Dead-Letter Queue
 
-| #   | Lab                                                                 | Description                                                     | Level          |
-| --- | ------------------------------------------------------------------- | --------------------------------------------------------------- | -------------- |
-| 01  | [Introduction to Amazon EC2](./labs/1-compute/01-ec2-introduction/) | Lifecycle: Launch, Monitoring, Security, and Vertical Resize    | 🟢 Foundational |
-| 02  | [EC2 + CloudShell](./labs/1-compute/02-ec2-console-cloudshell/)     | Web instances with User Data via Console and CLI                | 🟢 Foundational |
-| 03  | [Elastic Beanstalk](./labs/1-compute/03-elastic-beanstalk/)         | PaaS deployment with IAM Instance Profile                       | 🟢 Foundational |
-| 04  | [Auto Scaling + ALB](./labs/1-compute/04-auto-scaling-alb/)         | High availability with Launch Templates, ASG, and Load Balancer | 🟡 Intermediate |
+
+- **06. [Fan-Out SNS → SQS](./labs/6-serverless/06-sns-sqs-fanout/)** | `🔴 Advanced`
+  > Fan-out topology with attribute-based message filtering
+
+
+- **07. [S3 Event Notifications](./labs/6-serverless/07-s3-sns-sqs-events/)** | `🔴 Advanced`
+  > Audit triggered by native bucket events
+
+</details>
+<details>
+<summary>👉 <b>🔒 Security, Identity, and Compliance</b> (8 Labs)</summary>
+<br>
+
+
+- **01. [Introduction to AWS IAM](./labs/5-security-identity-compliance/01-iam-introduction/)** | `🟢 Foundational`
+  > User, group, and access policy management (least privilege)
+
+
+- **02. [AWS STS: Temporary Credentials](./labs/5-security-identity-compliance/02-aws-sts/)** | `🟢 Foundational`
+  > Programmatic `AssumeRole` for access without permanent keys
+
+
+- **03. [IAM: S3 ReadOnly](./labs/5-security-identity-compliance/03-iam-s3-readonly/)** | `🟢 Foundational`
+  > Least privilege with Managed Groups for restricted access
+
+
+- **04. [AWS Budgets](./labs/5-security-identity-compliance/04-aws-budgets/)** | `🟢 Foundational`
+  > Expense control with threshold alerts via email
+
+
+- **05. [CloudWatch + CloudTrail](./labs/5-security-identity-compliance/05-cloudwatch-cloudtrail/)** | `🟡 Intermediate`
+  > EC2 monitoring under load + API call auditing
+
+
+- **06. [SSM Parameter Store + KMS](./labs/5-security-identity-compliance/06-ssm-parameter-store/)** | `🟡 Intermediate`
+  > Secret management with AES-256 encryption via KMS
+
+
+- **07. [Basic Environment Audit](./labs/5-security-identity-compliance/07-aws-basic-audit/)** | `🟡 Intermediate`
+  > IAM, VPC Security analysis, and log auditing in CloudTrail/S3
+
+
+- **08. [AWS KMS: Key Management](./labs/5-security-identity-compliance/08-aws-kms-introduction/)** | `🟡 Intermediate`
+  > Symmetric key lifecycle, SSE-KMS, and auditing with CloudTrail
+
+</details>
+<details>
+<summary>👉 <b>🌐 Network and Content Delivery</b> (3 Labs)</summary>
+<br>
+
+
+- **01. [Amazon VPC](./labs/4-network-and-content-delivery/01-vpc-introduction/)** | `🟢 Foundational`
+  > Public/private subnets, NAT Gateway, IGW, and AZs
+
+
+- **02. [Amazon CloudFront](./labs/4-network-and-content-delivery/02-cloudfront-introduction/)** | `🟢 Foundational`
+  > CDN with distribution via Edge Locations
+
+
+- **03. [Amazon API Gateway](./labs/4-network-and-content-delivery/03-api-gateway-introduction/)** | `🟢 Foundational`
+  > Serverless microservice with Lambda integration
+
+</details>
+<details>
+<summary>👉 <b>📦 Storage</b> (4 Labs)</summary>
+<br>
+
+
+- **01. [S3: Introduction and Policies](./labs/2-storage/01-s3-introduction/)** | `🟡 Intermediate`
+  > Bucket Policies (JSON), Block Public Access (BPA), and Recovery via Versioning
+
+
+- **02. [S3: Advanced Management](./labs/2-storage/02-s3-advanced-management/)** | `🟢 Foundational`
+  > Versioning, Lifecycle, Pre-signed URLs, and Server Access Logs
+
+
+- **03. [S3: Basic & Advanced](./labs/2-storage/03-s3-basic-advanced/)** | `🟢 Foundational`
+  > Storage class automation and temporary URLs
+
+
+- **04. [EBS: Volumes and Snapshots](./labs/2-storage/04-ebs-mount-snapshots/)** | `🟡 Intermediate`
+  > ext4 mount via CLI and retention policies with DLM
+
+</details>
+<details>
+<summary>👉 <b>🗄️ Database</b> (3 Labs)</summary>
+<br>
+
+
+- **01. [Introduction to Amazon DynamoDB](./labs/3-database/01-amazon-dynamodb-introduction/)** | `🟢 Foundational`
+  > Table creation, item insertion, and Query vs Scan operations
+
+
+- **02. [DynamoDB Serverless CRUD](./labs/3-database/02-dynamodb-lambda-crud/)** | `🟡 Intermediate`
+  > REST API with Lambda + Boto3 on NoSQL table
+
+
+- **03. [DynamoDB LSI & GSI](./labs/3-database/03-dynamodb-lsi-gsi/)** | `🟡 Intermediate`
+  > Query optimization — Scan vs Query and index rotation
+
+</details>
+<details>
+<summary>👉 <b>🖥️ Compute</b> (4 Labs)</summary>
+<br>
+
+
+- **01. [Introduction to Amazon EC2](./labs/1-compute/01-ec2-introduction/)** | `🟢 Foundational`
+  > Lifecycle: Launch, Monitoring, Security, and Vertical Resize
+
+
+- **02. [EC2 + CloudShell](./labs/1-compute/02-ec2-console-cloudshell/)** | `🟢 Foundational`
+  > Web instances with User Data via Console and CLI
+
+
+- **03. [Elastic Beanstalk](./labs/1-compute/03-elastic-beanstalk/)** | `🟢 Foundational`
+  > PaaS deployment with IAM Instance Profile
+
+
+- **04. [Auto Scaling + ALB](./labs/1-compute/04-auto-scaling-alb/)** | `🟡 Intermediate`
+  > High availability with Launch Templates, ASG, and Load Balancer
 
 ---
-
 ## Lab Structure
 ```text
 <lab-name>/
@@ -108,15 +193,11 @@ Repository with practical AWS labs organized by product domain. Each lab documen
 ├── src/           # Scripts (Python / Bash / Boto3)
 └── assets/        # Diagrams and validation evidence
 ```
-
 > **Note:** Infrastructure as Code (Terraform/CDK) scripts are centralized in the root `/iac` directory, organized by lab.
-
 ---
-
 ## Author
-
 **Caio Cesar**
 IT Graduate, AWS re/Start Graduate. Certifications: CLF-C02 · DVA-C02 · SAA-C03 · AIF-C01.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-caiocesardev-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/caiocesardev/)
 [![GitHub](https://img.shields.io/badge/GitHub-caiocesarti-181717?style=flat-square&logo=github)](https://github.com/caiocesarti)
+</details>

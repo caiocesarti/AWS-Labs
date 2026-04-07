@@ -1,0 +1,43 @@
+name: Update README Stats
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'labs/**'
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Count Labs and Update READMEs
+        run: |
+          # Conta todas as pastas dentro de labs/ que possuem um README.md
+          LAB_COUNT=$(find labs -mindepth 2 -maxdepth 2 -type d | wc -l)
+          echo "Total Labs found: $LAB_COUNT"
+
+          # Substitui a tag "labs-XX" pela nova contagem (labs-$LAB_COUNT) nos dois READMEs
+          sed -i -E "s/labs-[0-9]+/labs-${LAB_COUNT}/g" README.md
+          sed -i -E "s/labs-[0-9]+/labs-${LAB_COUNT}/g" README-en.md
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add README.md README-en.md
+          
+          # Apenas commita se houver alguma mudanca (git diff --staged --quiet retorna falso se houver mudanças)
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: auto-update total labs count to $LAB_COUNT"
+            git push
+          else
+            echo "No changes in lab count detected. Skipping commit."
+          fi
