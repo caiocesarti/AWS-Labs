@@ -1,0 +1,3 @@
+Este é o conteúdo original do arquivo de teste do S3.
+S3 Versioning irá acompanhar as mudanças feitas neste arquivo.
+Versão 1.

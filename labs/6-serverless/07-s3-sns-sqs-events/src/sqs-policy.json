@@ -1,0 +1,20 @@
+{
+"Version": "2012-10-17",
+"Id": "__default_policy_ID",
+"Statement": [
+{
+"Sid": "AllowSNSToSendMessageToSQS",
+"Effect": "Allow",
+"Principal": {
+"Service": "sns.amazonaws.com"
+},
+"Action": "sqs:SendMessage",
+"Resource": "ARN_DA_FILA_SQS",
+"Condition": {
+"ArnEquals": {
+"aws:SourceArn": "ARN_DO_TOPICO_SNS"
+}
+}
+}
+]
+}

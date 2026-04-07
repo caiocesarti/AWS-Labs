@@ -1,0 +1,38 @@
+# EditorConfig: https://editorconfig.org
+# Padroniza configurações de editor para todos os colaboradores
+
+root = true
+
+# Regra global para todos os arquivos
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 2
+
+# Markdown — não remover trailing spaces (usados para quebra de linha)
+[*.md]
+trim_trailing_whitespace = false
+indent_size = 2
+
+# JSON
+[*.json]
+indent_size = 2
+
+# YAML / GitHub Actions
+[*.{yml,yaml}]
+indent_size = 2
+
+# Shell scripts
+[*.sh]
+end_of_line = lf
+
+# PowerShell (Windows — pode manter CRLF)
+[*.ps1]
+end_of_line = crlf
+
+# SVG / drawio
+[*.{svg,drawio}]
+trim_trailing_whitespace = false

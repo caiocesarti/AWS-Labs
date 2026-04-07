@@ -1,0 +1,31 @@
+# .gitattributes — Normaliza line endings para LF em todo o repositório
+# Evita warnings de CRLF/LF ao commitar no Windows
+
+# Regra padrão: normalizar tudo para LF
+* text=auto eol=lf
+
+# Texto explícito — sempre LF
+*.md        text eol=lf
+*.json      text eol=lf
+*.yml       text eol=lf
+*.yaml      text eol=lf
+*.sh        text eol=lf
+*.py        text eol=lf
+*.js        text eol=lf
+*.html      text eol=lf
+*.css       text eol=lf
+*.txt       text eol=lf
+
+# PowerShell — CRLF (nativo do Windows)
+*.ps1       text eol=crlf
+
+# Binários — sem conversão
+*.png       binary
+*.jpg       binary
+*.jpeg      binary
+*.gif       binary
+*.svg       binary
+*.drawio    binary
+*.zip       binary
+*.gz        binary
+*.pem       binary

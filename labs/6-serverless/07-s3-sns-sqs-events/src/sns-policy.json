@@ -1,0 +1,20 @@
+{
+"Version": "2008-10-17",
+"Id": "__default_policy_ID",
+"Statement": [
+{
+"Sid": "AllowS3ToPublishToTopic",
+"Effect": "Allow",
+"Principal": {
+"Service": "s3.amazonaws.com"
+},
+"Action": "SNS:Publish",
+"Resource": "ARN_DO_TOPICO_SNS",
+"Condition": {
+"ArnLike": {
+"aws:SourceArn": "ARN_DO_BUCKET_S3"
+}
+}
+}
+]
+}

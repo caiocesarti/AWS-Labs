@@ -1,0 +1,45 @@
+name: Validação de Repositório
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+
+  # ─── Job 1: Verificar links quebrados nos arquivos Markdown ───────────────
+  link-check:
+    name: 🔗 Verificar Links
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Lychee — Verificar links nos READMEs
+        uses: lycheeverse/lychee-action@v1.9.3
+        with:
+          fail: true
+          args: >
+            --accept 200,204,429
+            --timeout 20
+            --exclude "mailto:"
+            --exclude "localhost"
+            --exclude "127.0.0.1"
+            ./**/*.md
+
+  # ─── Job 2: Varredura de segredos e credenciais expostas ──────────────────
+  secret-scan:
+    name: 🔒 Varredura de Segredos
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Necessário para escanear o histórico completo
+
+      - name: Gitleaks — Detectar credenciais expostas
+        uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

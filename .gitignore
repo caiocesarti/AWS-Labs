@@ -1,0 +1,42 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+tmp/
+*.ps1
+
+# PDFs (direitos autorais - não versionar)
+*.pdf
+
+# Credenciais e segredos (NUNCA versionar)
+.env
+.env.*
+*.pem
+*.ppk
+credentials
+.aws/
+
+# Terraform
+*.tfvars
+*.tfvars.json
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+override.tf
+override.tf.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+.env/

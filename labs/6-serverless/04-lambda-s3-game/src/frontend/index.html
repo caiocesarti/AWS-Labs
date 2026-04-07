@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Jogo de Adivinhação - Serverless AWS</title>
+    <style>
+      body {
+        font-family: 'Arial', sans-serif;
+        background: linear-gradient(to right, #4facfe, #00f2fe);
+        margin: 0;
+        padding: 0;
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .container {
+        text-align: center;
+        background: rgba(0, 0, 0, 0.85);
+        border-radius: 15px;
+        padding: 40px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+        color: #fff;
+        width: 100%;
+        max-width: 450px;
+      }
+      h2 {
+        font-size: 2.2em;
+        margin-bottom: 20px;
+        color: #ffdd57;
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+      }
+      p {
+        font-size: 1.1em;
+        line-height: 1.6;
+        margin-bottom: 25px;
+      }
+      input[type="number"] {
+        padding: 12px;
+        font-size: 1.3em;
+        width: 70%;
+        margin-bottom: 25px;
+        border: 2px solid #4facfe;
+        border-radius: 8px;
+        text-align: center;
+        background: #fff;
+        color: #333;
+      }
+      button {
+        background: linear-gradient(135deg, #ff6f61 0%, #ff8c7b 100%);
+        color: white;
+        padding: 15px 40px;
+        font-size: 1.3em;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        font-weight: bold;
+        transition: transform 0.2s, box-shadow 0.2s;
+        box-shadow: 0 4px 15px rgba(255, 111, 97, 0.4);
+      }
+      button:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 6px 20px rgba(255, 111, 97, 0.6);
+      }
+      #resultado {
+        margin-top: 25px;
+        font-size: 1.6em;
+        font-weight: bold;
+        color: #ffdd57;
+        min-height: 1.8em;
+      }
+      footer {
+        margin-top: 40px;
+        font-size: 0.95em;
+        color: #bbb;
+        border-top: 1px solid #555;
+        padding-top: 15px;
+      }
+      .cloud-logo { color: #4facfe; font-weight: bold; }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h2>Jogo de Adivinhação</h2>
+      <p>Eu pensei em um número entre <strong>1 e 10</strong>.<br>Você consegue adivinhar qual é?</p>
+      
+      <input type="number" id="palpite" min="1" max="10" placeholder="?" />
+      <br>
+      <button onclick="enviarPalpite()">Tentar Sorte</button>
+      
+      <div id="resultado"></div>
+      
+      <footer>
+        <p>Escola da Nuvem💙 - Caio Cesar</p>
+      </footer>
+    </div>
+
+    <script>
+      function enviarPalpite() {
+        const palpite = document.getElementById("palpite").value;
+        const resultadoDiv = document.getElementById("resultado");
+        
+        if(!palpite) {
+            resultadoDiv.innerText = "Digite um número!";
+            return;
+        }
+
+        resultadoDiv.innerText = "Consultando AWS...";
+
+        // Substitua abaixo pelo seu Invoke URL do API Gateway
+        // Exemplo: https://xxxxxxxxxx.execute-api.us-east-1.amazonaws.com/prod/jogo
+        const url = "<SUA_INVOKE_URL>/jogo?palpite=" + palpite;
+
+        fetch(url)
+          .then((response) => response.json())
+          .then((data) => {
+            resultadoDiv.innerText = "Resultado: " + data.resultado;
+          })
+          .catch((error) => {
+            console.error("Erro:", error);
+            resultadoDiv.innerText = "Erro ao comunicar com a API Serverless.";
+          });
+      }
+    </script>
+  </body>
+</html>
