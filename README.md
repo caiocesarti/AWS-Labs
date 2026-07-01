@@ -3,8 +3,8 @@
 
   <br/>
 
-  ![Labs](https://img.shields.io/badge/labs-29-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-  ![Domains](https://img.shields.io/badge/domains-6-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+  ![Labs](https://img.shields.io/badge/labs-30-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+  ![Domains](https://img.shields.io/badge/domains-7-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
   ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
@@ -34,6 +34,7 @@ Repositório com laboratórios práticos de AWS organizados por domínio de prod
 | 📦 Storage                | 4    | S3, EBS, Bucket Policy, Lifecycle, DLM          |
 | 🗄️ Database               | 3    | DynamoDB, LSI, GSI, Boto3                       |
 | 🖥️ Compute                | 4    | EC2, Elastic Beanstalk, Auto Scaling, ALB       |
+| 🤖 Generative AI           | 1    | Amazon Quick, Spaces, Chat Agents, Agent Builder |
 
 ---
 
@@ -183,6 +184,17 @@ Repositório com laboratórios práticos de AWS organizados por domínio de prod
 
 - **04. [Auto Scaling + ALB](./labs/1-compute/04-auto-scaling-alb/)** | `🟡 Intermediário`
   > Alta disponibilidade com Launch Templates, ASG e Load Balancer
+
+</details>
+<details>
+<summary><b>🤖 Generative AI</b> (1 Lab)</summary>
+<br>
+
+
+- **01. [Agente de RH com Amazon Quick](./labs/7-generative-ai/01-quicksight-hr-agent/)** | `🟢 Fundamental`
+  > Espaços, Chat Agents e Agent Builder para assistente de RH com IA generativa
+
+</details>
 
 ---
 ## Estrutura de cada lab
