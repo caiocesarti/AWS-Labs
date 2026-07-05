@@ -133,10 +133,10 @@ Exploration of Amazon Quick's **AI-powered Research** and **Automated Flows** ca
 <img src="./assets/07-chat-api-jobs.webp" width="100%">
 
 ### 8. Onboarding Flow — full view with all steps
-<img src="./assets/08-onboarding-flow-full.webp" width="100%">
+<img src="./assets/08-onboarding-flow-full.webp" width="600">
 
 ### 9. Reasoning Group — conditional logic for employee creation
-<img src="./assets/09-reasoning-group.webp" width="100%">
+<img src="./assets/09-reasoning-group.webp" width="600">
 
 ### 10. Onboarding flow execution — final summary
 <img src="./assets/10-onboarding-run-summary.webp" width="100%">

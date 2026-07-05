@@ -133,10 +133,10 @@ Exploração dos recursos de **Pesquisa com IA** e **Fluxos automatizados** do A
 <img src="./assets/07-chat-api-jobs.webp" width="100%">
 
 ### 8. Fluxo de Integração — visão completa com todas as etapas
-<img src="./assets/08-onboarding-flow-full.webp" width="100%">
+<img src="./assets/08-onboarding-flow-full.webp" width="600">
 
 ### 9. Grupo de Raciocínio — lógica condicional para criação de funcionário
-<img src="./assets/09-reasoning-group.webp" width="100%">
+<img src="./assets/09-reasoning-group.webp" width="600">
 
 ### 10. Execução do fluxo de integração — resumo final
 <img src="./assets/10-onboarding-run-summary.webp" width="100%">
