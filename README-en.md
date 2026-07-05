@@ -3,7 +3,7 @@
 
   <br/>
 
-  ![Labs](https://img.shields.io/badge/labs-30-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+  ![Labs](https://img.shields.io/badge/labs-31-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
   ![Domains](https://img.shields.io/badge/domains-7-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -34,7 +34,7 @@ Repository with practical AWS labs organized by product domain. Each lab documen
 | 📦 Storage               | 4    | S3, EBS, Bucket Policy, Lifecycle, DLM          |
 | 🗄️ Database              | 3    | DynamoDB, LSI, GSI, Boto3                       |
 | 🖥️ Compute               | 4    | EC2, Elastic Beanstalk, Auto Scaling, ALB       |
-| 🤖 Generative AI          | 1    | Amazon Quick, Spaces, Chat Agents, Agent Builder |
+| 🤖 Generative AI          | 2    | Amazon Quick, Spaces, Chat Agents, Flows, Research, Connectors |
 
 ---
 
@@ -187,12 +187,16 @@ Repository with practical AWS labs organized by product domain. Each lab documen
 
 </details>
 <details>
-<summary><b>🤖 Generative AI</b> (1 Lab)</summary>
+<summary><b>🤖 Generative AI</b> (2 Labs)</summary>
 <br>
 
 
 - **01. [HR Agent with Amazon Quick](./labs/7-generative-ai/01-quicksight-hr-agent/)** | `🟢 Foundational`
   > Spaces, Chat Agents, and Agent Builder for an HR assistant with Generative AI
+
+
+- **02. [Researching and Creating Flows with Amazon Quick](./labs/7-generative-ai/02-quicksight-flows/)** | `🟡 Intermediate`
+  > Quick Research, Flows, OpenAPI connectors, and employee onboarding workflow
 
 </details>
 

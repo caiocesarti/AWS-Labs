@@ -158,13 +158,4 @@ Construção de um assistente de RH inteligente utilizando os recursos de **Espa
 
 ---
 
-## 📜 Alinhamento com Certificações
-
-Este lab cobre objetivos de:
-- **AIF-C01:** Domínio 2 — Fundamentos de IA Generativa
-- **AIF-C01:** Domínio 3 — Aplicações de Modelos de Fundação
-- **CLF-C02:** Domínio 3 — Tecnologia e Serviços de Cloud
-
----
-
 [← Voltar ao índice](../../../README.md)

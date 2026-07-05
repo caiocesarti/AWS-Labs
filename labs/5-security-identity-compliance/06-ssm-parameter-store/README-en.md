@@ -115,11 +115,4 @@ Securing Application Secrets and Configurations. In this lab, I isolated sensiti
 
 ---
 
-## ðŸ“œ Certification Alignment
-
-- **DVA-C02:** Domain 2 â€” Security (Secrets Management)
-- **SAA-C03:** Domain 1 â€” Design Secure Architectures
-
----
-
 [â† Return to Index](../../../README-en.md)

@@ -120,11 +120,4 @@ Access Governance implementation focused on the **Least Privilege** principle. I
 
 ---
 
-## 📜 Certification Alignment
-
-- **CLF-C02:** Domain 2 — Security and Compliance
-- **SAA-C03:** Domain 1 — Design Secure Architectures
-
----
-
 [← Return to Index](../../../README-en.md)

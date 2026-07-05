@@ -139,11 +139,4 @@ Processamento de Dados Orientado a Eventos: Neste laboratÃ³rio, explorei as ca
 
 ---
 
-## ðŸ“œ Alinhamento com CertificaÃ§Ãµes
-
-- **CLF-C02:** DomÃ­nio 3 â€” Tecnologia (Cloud Computing Serverless)
-- **DVA-C02:** DomÃ­nio 1 â€” Desenvolvimento com ServiÃ§os AWS
-
----
-
 [â† Voltar ao Ã­ndice](../../../README.md)

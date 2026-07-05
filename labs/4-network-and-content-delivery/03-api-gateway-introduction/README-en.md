@@ -1,4 +1,4 @@
-﻿<div align="right">
+<div align="right">
   <a href="./README-en.md">ðŸ‡ºðŸ‡¸ English</a> |
   <a href="./README.md">ðŸ‡§ðŸ‡· PortuguÃªs</a>
 </div>
@@ -123,15 +123,6 @@ Event-driven Serverless architecture deployment. This lab structures a pure *Bac
 ## ðŸ·ï¸ Competencies Demonstrated
 
 `Amazon API Gateway` `AWS Lambda Core` `Serverless Execution` `REST Integrations` `Node.js Web Arrays` `CloudWatch Profiling` `Cloud Tracing` `ðŸŸ¢ Fundamental`
-
----
-
-## ðŸ“œ Certification Alignment
-
-This formative infrastructure natively covers logical boundaries mapping core assessments tracing:
-- **CLF-C02:** Domain 3 â€” Cloud Technology and Services
-- **SAA-C03:** Domain 3 â€” High-Performance Architectures (Serverless Domains)
-- **DVA-C02:** Domain 1 â€” Development with AWS Services
 
 ---
 

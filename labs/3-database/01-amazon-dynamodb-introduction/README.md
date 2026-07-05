@@ -108,13 +108,4 @@ Prova real das diferenças perimetrais:
 
 ---
 
-## 📜 Alinhamento com Certificações
-
-Este lab atende objetivos construtivos abordando:
-- **CLF-C02:** Domínio 3 — Tecnologia e Serviços de Cloud
-- **SAA-C03:** Domínio 1 — Arquitetura de Design Seguro
-- **DVA-C02:** Domínio 1 — Desenvolvimento com Serviços AWS
-
----
-
 [← Voltar ao índice](../../../README.md)

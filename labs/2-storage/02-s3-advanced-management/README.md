@@ -111,12 +111,4 @@ Implementação de governança de dados (*Data Governance*) e práticas de *FinO
 
 ---
 
-## 📜 Alinhamento com Certificações
-
-Este lab engloba objetivos visando retenção temporal de arquivos mestre:
-- **CLF-C02:** Domínio 3 — Tecnologia e Serviços de Cloud
-- **SAA-C03:** Domínio 4 — Arquitetura Otimizada em Custo
-
----
-
 [← Voltar ao índice](../../../README.md)

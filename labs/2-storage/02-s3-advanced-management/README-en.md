@@ -111,12 +111,4 @@ Implementation of data governance frameworks and *FinOps* methodologies targetin
 
 ---
 
-## 📜 Certification Alignment
-
-This lab covers objectives from:
-- **CLF-C02:** Domain 3 — Cloud Technology and Services
-- **SAA-C03:** Domain 4 — Cost-Optimized Architecture
-
----
-
 [← Return to Index](../../../README-en.md)

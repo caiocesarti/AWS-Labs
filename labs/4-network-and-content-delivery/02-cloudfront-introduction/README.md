@@ -111,13 +111,4 @@ ImplementaÃ§Ã£o de Redes de DistribuiÃ§Ã£o de ConteÃºdo (CDN) utilizan
 
 ---
 
-## ðŸ“œ Alinhamento com CertificaÃ§Ãµes
-
-Este laboratÃ³rio fixa habilidades demandadas mapeando os tÃ³picos de infraestrutura nativos:
-- **SAA-C03:** DomÃ­nio 3 â€” Arquitetura de Alta Performance
-- **SAA-C03:** DomÃ­nio 4 â€” Arquitetura com OtimizaÃ§Ã£o de Custos
-- **CLF-C02:** DomÃ­nio 3 â€” Tecnologia Principal da Nuvem AWS
-
----
-
 [â† Voltar ao Ã­ndice](../../../README.md)

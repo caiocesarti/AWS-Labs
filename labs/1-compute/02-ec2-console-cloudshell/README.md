@@ -119,12 +119,4 @@ Provisionamento automatizado de infraestrutura (`IaaS`) utilizando abordagens gr
 
 ---
 
-## 📜 Alinhamento com Certificações
-
-Este lab cobre objetivos de:
-- **CLF-C02:** Domínio 3 — Tecnologia e Serviços de Cloud
-- **DVA-C02:** Domínio 1 — Desenvolvimento com Serviços AWS
-
----
-
 [← Voltar ao índice](../../../README.md)

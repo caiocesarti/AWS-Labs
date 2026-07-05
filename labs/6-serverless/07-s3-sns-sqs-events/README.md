@@ -102,11 +102,4 @@ Automação e Auditoria Através de Eventos: Neste laboratório, implementei uma
 
 ---
 
-## 📜 Alinhamento com Certificações
-
-- **DVA-C02:** Domínio 1 — Desenvolvimento com Serviços AWS (Gatilhos de Eventos)
-- **SAA-C03:** Domínio 2 — Projeto de Arquiteturas Resilientes (Desacoplamento e Notificação)
-
----
-
 [← Voltar ao índice](../../../README.md)

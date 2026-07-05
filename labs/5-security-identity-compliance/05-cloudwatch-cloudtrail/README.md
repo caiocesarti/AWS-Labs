@@ -139,11 +139,4 @@ Telemetria de Infraestrutura e Governança Forense: Neste laboratório, estabele
 
 ---
 
-## 📜 Alinhamento com Certificações
-
-- **CLF-C02:** Domínio 2 — Segurança e Conformidade
-- **SAA-C03:** Domínio 2 — Design de Arquiteturas Resilientes
-
----
-
 [← Voltar ao índice](../../../README.md)

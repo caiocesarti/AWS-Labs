@@ -122,13 +122,4 @@ Deployment of a web application utilizing the AWS managed PaaS (Platform as a Se
 
 ---
 
-## 📜 Certification Alignment
-
-This lab covers objectives from:
-- **CLF-C02:** Domain 3 — Cloud Technology and Services
-- **DVA-C02:** Domain 3 — Deployment
-- **SAA-C03:** Domain 3 — High-Performance Architecture
-
----
-
 [← Return to Index](../../../README-en.md)

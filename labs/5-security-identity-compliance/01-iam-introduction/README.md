@@ -120,11 +120,4 @@ Implementação de Governança de Acessos focada no princípio de **Privilégio 
 
 ---
 
-## 📜 Alinhamento com Certificações
-
-- **CLF-C02:** Domínio 2 — Segurança e Conformidade
-- **SAA-C03:** Domínio 1 — Design de Arquiteturas Seguras
-
----
-
 [← Voltar ao índice](../../../README.md)

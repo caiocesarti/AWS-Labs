@@ -139,13 +139,4 @@ Implementação de regras de segurança granulares em armazenamento de objetos (
 
 ---
 
-## 📜 Alinhamento com Certificações
-
-Este lab engloba conceitos primordiais do:
-- **CLF-C02:** Domínio 3 — Tecnologia e Serviços de Cloud
-- **SAA-C03:** Domínio 1 — Arquitetura Segura
-- **DVA-C02:** Domínio 2 — Segurança
-
----
-
 [← Voltar ao índice](../../../README.md)

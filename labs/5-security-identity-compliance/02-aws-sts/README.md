@@ -1,4 +1,4 @@
-﻿<div align="right">
+<div align="right">
   <a href="./README-en.md">ðŸ‡ºðŸ‡¸ English</a> |
   <a href="./README.md">ðŸ‡§ðŸ‡· PortuguÃªs</a>
 </div>
@@ -78,13 +78,6 @@ GestÃ£o de Identidade DinÃ¢mica. Neste laboratÃ³rio, demonstrei a implemen
 ## ðŸ·ï¸ CompetÃªncias Demonstradas
 
 `AWS STS` `AssumeRole` `Credenciais TemporÃ¡rias` `Python Boto3` `Trust Policies` `SeguranÃ§a Automatizada` `ðŸŸ¢ Fundamental`
-
----
-
-## ðŸ“œ Alinhamento com CertificaÃ§Ãµes
-
-- **CLF-C02:** DomÃ­nio 2 â€” SeguranÃ§a e Conformidade
-- **DVA-C02:** DomÃ­nio 2 â€” SeguranÃ§a em Ambientes de Desenvolvimento
 
 ---
 

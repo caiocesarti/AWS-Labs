@@ -1,4 +1,4 @@
-﻿<div align="right">
+<div align="right">
   <a href="./README-en.md">ðŸ‡ºðŸ‡¸ English</a> |
   <a href="./README.md">ðŸ‡§ðŸ‡· PortuguÃªs</a>
 </div>
@@ -149,13 +149,6 @@ Serverless DevOps and Blue/Green Deployment: In this lab, I implemented secure c
 ## ðŸ·ï¸ Competencies Demonstrated
 
 `AWS Lambda Aliases` `API Gateway Stages` `Stage Variables` `CI/CD Concepts` `Blue-Green Deployment` `Serverless` `ðŸŸ¡ Intermediate`
-
----
-
-## ðŸ“œ Certification Alignment
-
-- **DVA-C02:** Domain 1 â€” Development with AWS Services (Lambda/API GW)
-- **DVA-C02:** Domain 3 â€” Deployment and Lifecycle Management
 
 ---
 

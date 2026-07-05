@@ -102,11 +102,4 @@ Event-Driven Auditing and Storage Notifications: In this lab, I implemented a re
 
 ---
 
-## 📜 Certification Alignment
-
-- **DVA-C02:** Domain 1 — Development with AWS Services (Event Triggers)
-- **SAA-C03:** Domain 2 — Design Resilient Architectures (Decoupling and Notification)
-
----
-
 [← Return to Index](../../../README-en.md)

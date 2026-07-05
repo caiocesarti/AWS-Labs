@@ -139,13 +139,4 @@ Deployment of granular shielding protocols targeting enterprise native object st
 
 ---
 
-## 📜 Certification Alignment
-
-This lab covers objectives from:
-- **CLF-C02:** Domain 3 — Cloud Technology and Services
-- **SAA-C03:** Domain 1 — Secure Architecture
-- **DVA-C02:** Domain 2 — Security
-
----
-
 [← Return to Index](../../../README-en.md)

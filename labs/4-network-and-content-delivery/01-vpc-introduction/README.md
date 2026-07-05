@@ -131,13 +131,4 @@ Mensageria AssÃ­ncrona e ResiliÃªncia DistribuÃ­da: Neste laboratÃ³rio, 
 
 ---
 
-## ðŸ“œ Alinhamento com CertificaÃ§Ãµes
-
-Este escopo constrÃ³i vetores de nuvem voltados para:
-- **CLF-C02:** DomÃ­nio 3 â€” Tecnologia e ServiÃ§os de Cloud
-- **SAA-C03:** DomÃ­nio 2 â€” Arquitetura Resiliente de Alta Confiabilidade
-- **SAA-C03:** DomÃ­nio 1 â€” Arquiteturas Seguras
-
----
-
 [â† Voltar ao Ã­ndice](../../../README.md)

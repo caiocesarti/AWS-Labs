@@ -139,11 +139,4 @@ Event-Driven Data Processing: In this lab, I explored the *Serverless* compute c
 
 ---
 
-## ðŸ“œ Certification Alignment
-
-- **CLF-C02:** Domain 3 â€” Technology (Serverless Cloud Computing)
-- **DVA-C02:** Domain 1 â€” Development with AWS Services
-
----
-
 [â† Return to Index](../../../README-en.md)

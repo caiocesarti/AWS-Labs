@@ -127,11 +127,4 @@ Mensageria Assíncrona e Resiliência Distribuída: Neste laboratório, implemen
 
 ---
 
-## 📜 Alinhamento com Certificações
-
-- **DVA-C02:** Domínio 1 — Desenvolvimento com Serviços AWS (Mensageria)
-- **SAA-C03:** Domínio 2 — Design de Arquiteturas Resilientes
-
----
-
 [← Voltar ao índice](../../../README.md)

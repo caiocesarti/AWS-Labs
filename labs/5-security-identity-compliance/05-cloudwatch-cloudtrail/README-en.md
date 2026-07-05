@@ -139,11 +139,4 @@ Infrastructure Telemetry and Forensic Governance. In this lab, I established a n
 
 ---
 
-## 📜 Certification Alignment
-
-- **CLF-C02:** Domain 2 — Security and Compliance
-- **SAA-C03:** Domain 2 — Design Resilient Architectures
-
----
-
 [← Return to Index](../../../README-en.md)

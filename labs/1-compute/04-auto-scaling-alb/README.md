@@ -108,13 +108,4 @@ Implementação de arquitetura base distribuída projetada para tolerância a fa
 
 ---
 
-## 📜 Alinhamento com Certificações
-
-Este lab cobre intensamente os propósitos centrais das avaliações:
-- **SAA-C03:** Domínio 2 — Arquitetura Resiliente
-- **SAA-C03:** Domínio 3 — Arquitetura de Alta Performance
-- **CLF-C02:** Domínio 3 — Tecnologia e Serviços de Cloud
-
----
-
 [← Voltar ao índice](../../../README.md)

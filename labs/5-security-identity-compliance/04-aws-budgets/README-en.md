@@ -1,4 +1,4 @@
-﻿<div align="right">
+<div align="right">
   <a href="./README-en.md">ðŸ‡ºðŸ‡¸ English</a> |
   <a href="./README.md">ðŸ‡§ðŸ‡· PortuguÃªs</a>
 </div>
@@ -92,13 +92,6 @@ Cloud Financial Operations (FinOps) monitoring setup. In this lab, I configured 
 ## ðŸ·ï¸ Competencies Demonstrated
 
 `AWS Budgets` `Cost Management` `Alerts` `FinOps` `Billing & Cost Explorer` `ðŸŸ¢ Fundamental`
-
----
-
-## ðŸ“œ Certification Alignment
-
-- **CLF-C02:** Domain 4 â€” Billing and Pricing
-- **SAA-C03:** Domain 4 â€” Design Cost-Optimized Architectures
 
 ---
 

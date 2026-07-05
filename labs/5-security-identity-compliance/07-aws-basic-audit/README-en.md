@@ -113,11 +113,4 @@ Security Posture Validation and Compliance Auditing. In this lab, I conducted a 
 
 ---
 
-## ðŸ“œ Certification Alignment
-
-- **CLF-C02:** Domain 2 â€” Security and Compliance
-- **SAA-C03:** Domain 1 â€” Design Secure Architectures
-
----
-
 [â† Return to Index](../../../README-en.md)

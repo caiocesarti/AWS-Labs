@@ -1,4 +1,4 @@
-﻿<div align="right">
+<div align="right">
   <a href="./README-en.md">ðŸ‡ºðŸ‡¸ English</a> |
   <a href="./README.md">ðŸ‡§ðŸ‡· PortuguÃªs</a>
 </div>
@@ -101,13 +101,6 @@ Arquitetura Full-Stack Serverless Moderna: Neste laboratÃ³rio, construÃ­ uma
 ## ðŸ·ï¸ CompetÃªncias Demonstradas
 
 `AWS Lambda` `Amazon API Gateway` `Amazon S3 Static Hosting` `CORS` `Serverless Full-Stack` `Node.js` `ðŸŸ¡ IntermediÃ¡rio`
-
----
-
-## ðŸ“œ Alinhamento com CertificaÃ§Ãµes
-
-- **DVA-C02:** DomÃ­nio 1 â€” Desenvolvimento com ServiÃ§os AWS
-- **SAA-C03:** DomÃ­nio 3 â€” Design de Arquiteturas Resilientes e EscalÃ¡veis
 
 ---
 

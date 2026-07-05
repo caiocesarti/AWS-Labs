@@ -109,11 +109,4 @@ Roteamento Avançado de Event-Driven Architecture (EDA): Neste laboratório, imp
 
 ---
 
-## 📜 Alinhamento com Certificações
-
-- **DVA-C02:** Domínio 1 — Desenvolvimento com Serviços AWS (Integração Serverless)
-- **SAA-C03:** Domínio 2 — Arquitetando Infraestruturas Resilientes e Desacopladas
-
----
-
 [← Voltar ao índice](../../../README.md)

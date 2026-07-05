@@ -1,4 +1,4 @@
-﻿<div align="right">
+<div align="right">
   <a href="./README-en.md">ðŸ‡ºðŸ‡¸ English</a> |
   <a href="./README.md">ðŸ‡§ðŸ‡· PortuguÃªs</a>
 </div>
@@ -101,13 +101,6 @@ Modern Full-Stack Serverless Architecture: In this lab, I built a complete "Gues
 ## ðŸ·ï¸ Competencies Demonstrated
 
 `AWS Lambda` `Amazon API Gateway` `Amazon S3 Static Hosting` `CORS` `Full-Stack Serverless` `Node.js` `ðŸŸ¡ Intermediate`
-
----
-
-## ðŸ“œ Certification Alignment
-
-- **DVA-C02:** Domain 1 â€” Development with AWS Services
-- **SAA-C03:** Domain 3 â€” Design Resilient and Scalable Architectures
 
 ---
 

@@ -115,12 +115,4 @@ Establishing deep *SSH Keypair* tunnel configurations:
 
 ---
 
-## 📜 Certification Alignment
-
-This lab fills essential technical gaps mapped against active Resilient Engineering enterprise goals framing:
-- **CLF-C02:** Domain 3 — Cloud Technology and Services
-- **SAA-C03:** Domain 2 — Resilient Architecture
-
----
-
 [← Return to Index](../../../README-en.md)

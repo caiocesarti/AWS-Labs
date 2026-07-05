@@ -131,13 +131,4 @@ Asynchronous Messaging and Distributed Resilience: In this lab, I implemented th
 
 ---
 
-## ðŸ“œ Certification Alignment
-
-This path dictates baseline network logic mirroring native assessments evaluating:
-- **CLF-C02:** Domain 3 â€” Cloud Technology and Services
-- **SAA-C03:** Domain 2 â€” Resilient Dependable Architecture Constraints
-- **SAA-C03:** Domain 1 â€” Secure Network Architectures
-
----
-
 [â† Return to Index](../../../README-en.md)

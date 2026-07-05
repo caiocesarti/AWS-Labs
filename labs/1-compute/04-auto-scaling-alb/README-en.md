@@ -107,13 +107,4 @@ Implementation of a distributed architecture designed for profound fault toleran
 
 ---
 
-## 📜 Certification Alignment
-
-This lab covers objectives from:
-- **SAA-C03:** Domain 2 — Resilient Architecture
-- **SAA-C03:** Domain 3 — High-Performance Architecture
-- **CLF-C02:** Domain 3 — Cloud Technology and Services
-
----
-
 [← Return to Index](../../../README-en.md)

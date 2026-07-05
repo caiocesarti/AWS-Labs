@@ -111,13 +111,4 @@ Full-scale implementation deploying a Global Content Delivery Network (CDN) usin
 
 ---
 
-## ðŸ“œ Certification Alignment
-
-This formative infrastructure successfully maps optimizations spanning assessments traversing:
-- **CLF-C02:** Domain 3 â€” Cloud Technology and Services
-- **SAA-C03:** Domain 3 â€” High-Performance Architectures
-- **SAA-C03:** Domain 4 â€” Cost-Optimized Infrastructures
-
----
-
 [â† Return to Index](../../../README-en.md)

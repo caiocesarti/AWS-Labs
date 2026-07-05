@@ -1,4 +1,4 @@
-﻿<div align="right">
+<div align="right">
   <a href="./README-en.md">ðŸ‡ºðŸ‡¸ English</a> |
   <a href="./README.md">ðŸ‡§ðŸ‡· PortuguÃªs</a>
 </div>
@@ -78,13 +78,6 @@ Dynamic Identity Management. In this lab, I demonstrated the implementation of t
 ## ðŸ·ï¸ Competencies Demonstrated
 
 `AWS STS` `AssumeRole` `Temporary Credentials` `Python Boto3` `Trust Policies` `Security Automation` `ðŸŸ¢ Fundamental`
-
----
-
-## ðŸ“œ Certification Alignment
-
-- **CLF-C02:** Domain 2 â€” Security and Compliance
-- **DVA-C02:** Domain 2 â€” Security in Development Environments
 
 ---
 

@@ -104,12 +104,4 @@ Implementação de plataforma Serverless (Full-Stack) voltada a transações de 
 
 ---
 
-## 📜 Alinhamento com Certificações
-
-Este lab engole metodologias vitais operacionais em testes práticos abordando os espectros:
-- **DVA-C02:** Domínio 1 — Desenvolvimento com Serviços AWS
-- **SAA-C03:** Domínio 3 — Arquitetura de Alta Performance
-
----
-
 [← Voltar ao índice](../../../README.md)

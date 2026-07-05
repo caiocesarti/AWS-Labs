@@ -116,12 +116,4 @@ Engessando o sistema para resistir a ataques lógicos nativos.
 
 ---
 
-## 📜 Alinhamento com Certificações
-
-Este laboratório preenche lacunas severas da Engenharia Resiliente e do domínio primário:
-- **CLF-C02:** Domínio 3 — Tecnologia e Serviços de Cloud
-- **SAA-C03:** Domínio 2 — Arquitetura Resiliente
-
----
-
 [← Voltar ao índice](../../../README.md)

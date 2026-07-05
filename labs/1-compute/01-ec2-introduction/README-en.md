@@ -153,13 +153,4 @@ Core provisioning of a cloud web server focused on resilience and elasticity. Th
 
 ---
 
-## 📜 Certification Alignment
-
-This lab covers objectives from:
-- **CLF-C02:** Domain 3 — Cloud Technology and Services
-- **SAA-C03:** Domain 2 — Resilient Architecture
-- **SAA-C03:** Domain 3 — High-Performance Architecture
-
----
-
 [← Back to Index](../../../README-en.md)

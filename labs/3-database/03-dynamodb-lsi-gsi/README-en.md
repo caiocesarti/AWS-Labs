@@ -136,13 +136,4 @@ Mastery of advanced data modeling and *Performance Tuning* leveraging Amazon Dyn
 
 ---
 
-## 📜 Certification Alignment
-
-This lab connects hyper-efficient analytical optimization layers evaluating core skills checking:
-- **SAA-C03:** Domain 3 — High-Performance Architectures
-- **DVA-C02:** Domain 1 — Development with AWS Services
-- **DVA-C02:** Domain 4 — Troubleshooting and Optimization
-
----
-
 [← Return to Index](../../../README-en.md)

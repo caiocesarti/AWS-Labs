@@ -1,4 +1,4 @@
-﻿<div align="right">
+<div align="right">
   <a href="./README-en.md">ðŸ‡ºðŸ‡¸ English</a> |
   <a href="./README.md">ðŸ‡§ðŸ‡· PortuguÃªs</a>
 </div>
@@ -146,13 +146,6 @@ Cloud Cost Governance and Automation (FinOps): In this lab, I implemented a full
 ## ðŸ·ï¸ Competencies Demonstrated
 
 `AWS Lambda` `Amazon EventBridge` `Cron Jobs` `FinOps (Cost Optimization)` `Boto3 Scripting` `EC2 Automation` `ðŸ”´ Advanced`
-
----
-
-## ðŸ“œ Certification Alignment
-
-- **DVA-C02:** Domain 1 â€” Development with AWS Services (Boto3/Lambda)
-- **SAA-C03:** Domain 4 â€” Design Cost-Optimized Architectures
 
 ---
 

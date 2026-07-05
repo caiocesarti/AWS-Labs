@@ -108,13 +108,4 @@ Physical validation outlining explicit FinOps boundaries dynamically:
 
 ---
 
-## 📜 Certification Alignment
-
-This setup spans vital architectural domains covering:
-- **CLF-C02:** Domain 3 — Cloud Technology and Services
-- **SAA-C03:** Domain 1 — Secure Design Architectures
-- **DVA-C02:** Domain 1 — Development with AWS Services
-
----
-
 [← Return to Index](../../../README-en.md)

@@ -1,4 +1,4 @@
-﻿<div align="right">
+<div align="right">
   <a href="./README-en.md">ðŸ‡ºðŸ‡¸ English</a> |
   <a href="./README.md">ðŸ‡§ðŸ‡· PortuguÃªs</a>
 </div>
@@ -105,14 +105,6 @@ Controlled Encryption and Traceable Compliance. In this lab, I explored the foun
 ## ðŸ·ï¸ Competencies Demonstrated
 
 `AWS KMS` `Customer Managed Keys` `SSE-KMS` `S3 Encryption` `AWS CloudTrail` `Signature V4` `ðŸŸ¡ Intermediate`
-
----
-
-## ðŸ“œ Certification Alignment
-
-- **CLF-C02:** Domain 2 â€” Security and Compliance
-- **SAA-C03:** Domain 1 â€” Design Secure Architectures
-- **DVA-C02:** Domain 2 â€” Data Security
 
 ---
 

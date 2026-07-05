@@ -153,13 +153,4 @@ Provisionamento core de um servidor web na nuvem com foco em resiliência e elas
 
 ---
 
-## 📜 Alinhamento com Certificações
-
-Este lab cobre objetivos de:
-- **CLF-C02:** Domínio 3 — Tecnologia e Serviços de Cloud
-- **SAA-C03:** Domínio 2 — Arquitetura Resiliente
-- **SAA-C03:** Domínio 3 — Arquitetura de Alta Performance
-
----
-
 [← Voltar ao índice](../../../README.md)

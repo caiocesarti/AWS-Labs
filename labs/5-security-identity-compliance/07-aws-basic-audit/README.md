@@ -113,11 +113,4 @@ Auditoria de Arquitetura e ValidaÃ§Ã£o de Conformidade: Neste laboratÃ³rio
 
 ---
 
-## ðŸ“œ Alinhamento com CertificaÃ§Ãµes
-
-- **CLF-C02:** DomÃ­nio 2 â€” SeguranÃ§a e Conformidade
-- **SAA-C03:** DomÃ­nio 1 â€” Design de Arquiteturas Seguras
-
----
-
 [â† Voltar ao Ã­ndice](../../../README.md)

@@ -138,13 +138,4 @@ Dominância em modelagem de dados avançada e otimização de performance (*Perf
 
 ---
 
-## 📜 Alinhamento com Certificações
-
-Este laboratório fixa conhecimentos práticos profundos vitais em Otimizações focando avaliações:
-- **SAA-C03:** Domínio 3 — Arquitetura de Alta Performance
-- **DVA-C02:** Domínio 1 — Desenvolvimento com Serviços AWS
-- **DVA-C02:** Domínio 4 — Troubleshooting e Otimização
-
----
-
 [← Voltar ao índice](../../../README.md)

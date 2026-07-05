@@ -115,11 +115,4 @@ GestÃ£o e Blindagem de Segredos SensÃ­veis: Neste laboratÃ³rio, isolei con
 
 ---
 
-## ðŸ“œ Alinhamento com CertificaÃ§Ãµes
-
-- **DVA-C02:** DomÃ­nio 2 â€” SeguranÃ§a (GestÃ£o de Segredos)
-- **SAA-C03:** DomÃ­nio 1 â€” Design de Arquiteturas Seguras
-
----
-
 [â† Voltar ao Ã­ndice](../../../README.md)

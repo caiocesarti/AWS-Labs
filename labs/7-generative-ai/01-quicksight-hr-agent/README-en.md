@@ -158,13 +158,4 @@ Building an intelligent HR assistant using **Spaces** and **Custom Chat Agents**
 
 ---
 
-## 📜 Certification Alignment
-
-This lab covers objectives from:
-- **AIF-C01:** Domain 2 — Generative AI Fundamentals
-- **AIF-C01:** Domain 3 — Applications of Foundation Models
-- **CLF-C02:** Domain 3 — Cloud Technology and Services
-
----
-
 [← Back to Index](../../../README-en.md)

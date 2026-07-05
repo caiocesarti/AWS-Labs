@@ -122,13 +122,4 @@ Deploy corporativo de aplicação web utilizando o modelo PaaS (Platform as a Se
 
 ---
 
-## 📜 Alinhamento com Certificações
-
-Este lab cobre objetivos de:
-- **CLF-C02:** Domínio 3 — Tecnologia e Serviços de Cloud
-- **DVA-C02:** Domínio 3 — Deployment
-- **SAA-C03:** Domínio 3 — Arquitetura de Alta Performance
-
----
-
 [← Voltar ao índice](../../../README.md)

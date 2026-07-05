@@ -1,4 +1,4 @@
-﻿<div align="right">
+<div align="right">
   <a href="./README-en.md">ðŸ‡ºðŸ‡¸ English</a> |
   <a href="./README.md">ðŸ‡§ðŸ‡· PortuguÃªs</a>
 </div>
@@ -92,13 +92,6 @@ GovernanÃ§a de Custos e FinOps: Neste laboratÃ³rio, configurei um orÃ§amen
 ## ðŸ·ï¸ CompetÃªncias Demonstradas
 
 `AWS Budgets` `GestÃ£o de Custos` `FinOps` `Billing & Cost Explorer` `Alertas de E-mail` `ðŸŸ¢ Fundamental`
-
----
-
-## ðŸ“œ Alinhamento com CertificaÃ§Ãµes
-
-- **CLF-C02:** DomÃ­nio 4 â€” Faturamento e PreÃ§os
-- **SAA-C03:** DomÃ­nio 4 â€” Design de Arquiteturas Otimizadas em Custo
 
 ---
 

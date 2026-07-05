@@ -109,11 +109,4 @@ Advanced Routing for Event-Driven Architectures (EDA): In this lab, I implemente
 
 ---
 
-## 📜 Certification Alignment
-
-- **DVA-C02:** Domain 1 — Development with AWS Services (Serverless Integration)
-- **SAA-C03:** Domain 2 — Design Resilient and Decoupled Architectures
-
----
-
 [← Return to Index](../../../README-en.md)

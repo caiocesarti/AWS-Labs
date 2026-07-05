@@ -1,4 +1,4 @@
-﻿<div align="right">
+<div align="right">
   <a href="./README-en.md">ðŸ‡ºðŸ‡¸ English</a> |
   <a href="./README.md">ðŸ‡§ðŸ‡· PortuguÃªs</a>
 </div>
@@ -105,14 +105,6 @@ Criptografia Controlada e Compliance RastreÃ¡vel: Neste laboratÃ³rio, explor
 ## ðŸ·ï¸ CompetÃªncias Demonstradas
 
 `AWS KMS` `Customer Managed Keys` `SSE-KMS` `S3 Encryption` `AWS CloudTrail` `Cloud Compliance` `Signature V4` `ðŸŸ¡ IntermediÃ¡rio`
-
----
-
-## ðŸ“œ Alinhamento com CertificaÃ§Ãµes
-
-- **CLF-C02:** DomÃ­nio 2 â€” SeguranÃ§a e Conformidade
-- **SAA-C03:** DomÃ­nio 1 â€” Design de Arquiteturas Seguras
-- **DVA-C02:** DomÃ­nio 2 â€” SeguranÃ§a de Dados
 
 ---
 

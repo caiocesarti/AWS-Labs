@@ -104,12 +104,4 @@ Development of an end-to-end Serverless (Full-Stack) environment maneuvering nat
 
 ---
 
-## 📜 Certification Alignment
-
-This setup covers:
-- **DVA-C02:** Domain 1 — Development with AWS Services
-- **SAA-C03:** Domain 3 — High-Performance Architectures
-
----
-
 [← Return to Index](../../../README-en.md)

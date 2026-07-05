@@ -1,4 +1,4 @@
-﻿<div align="right">
+<div align="right">
   <a href="./README-en.md">ðŸ‡ºðŸ‡¸ English</a> |
   <a href="./README.md">ðŸ‡§ðŸ‡· PortuguÃªs</a>
 </div>
@@ -146,13 +146,6 @@ GovernanÃ§a de Custos e AutomaÃ§Ã£o (FinOps): Neste laboratÃ³rio, implem
 ## ðŸ·ï¸ CompetÃªncias Demonstradas
 
 `AWS Lambda` `Amazon EventBridge` `Cron Jobs` `FinOps (Custos)` `Boto3 Scripting` `EC2 Automation` `ðŸ”´ AvanÃ§ado`
-
----
-
-## ðŸ“œ Alinhamento com CertificaÃ§Ãµes
-
-- **DVA-C02:** DomÃ­nio 1 â€” Desenvolvimento com ServiÃ§os AWS (Boto3/Lambda)
-- **SAA-C03:** DomÃ­nio 4 â€” Design Otimizado de Custos
 
 ---
 

@@ -127,11 +127,4 @@ Asynchronous Messaging and Distributed Resilience: In this lab, I implemented a 
 
 ---
 
-## 📜 Certification Alignment
-
-- **DVA-C02:** Domain 1 — Development with AWS Services (Messaging)
-- **SAA-C03:** Domain 2 — Design Resilient Architectures
-
----
-
 [← Return to Index](../../../README-en.md)

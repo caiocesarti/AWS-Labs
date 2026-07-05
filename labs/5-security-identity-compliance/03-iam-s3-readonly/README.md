@@ -92,11 +92,4 @@ Aplicação prática do princípio de **Privilégio Mínimo** limitando um usuá
 
 ---
 
-## 📜 Alinhamento com Certificações
-
-- **CLF-C02:** Domínio 2 — Segurança e Conformidade
-- **SAA-C03:** Domínio 1 — Arquitetura de Design Seguro
-
----
-
 [← Voltar ao índice](../../../README.md)

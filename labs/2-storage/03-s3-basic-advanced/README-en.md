@@ -106,12 +106,4 @@ Establishment of robust enterprise Storage infrastructure zeroing in on data res
 
 ---
 
-## 📜 Certification Alignment
-
-This lab covers key architectural domains mapped against comprehensive framework logic goals:
-- **CLF-C02:** Domain 3 — Cloud Technology and Services
-- **SAA-C03:** Domain 4 — Cost-Optimized Architecture
-
----
-
 [← Return to Index](../../../README-en.md)

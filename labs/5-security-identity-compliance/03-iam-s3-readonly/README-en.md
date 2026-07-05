@@ -92,11 +92,4 @@ Security implementation emphasizing the **Least Privilege** principle by limitin
 
 ---
 
-## 📜 Certification Alignment
-
-- **CLF-C02:** Domain 2 — Security and Compliance
-- **SAA-C03:** Domain 1 — Design Secure Architecture
-
----
-
 [← Return to Index](../../../README-en.md)

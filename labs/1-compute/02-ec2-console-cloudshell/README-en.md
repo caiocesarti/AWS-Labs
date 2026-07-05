@@ -110,12 +110,4 @@ Automated infrastructure provisioning (`IaaS`) utilizing graphical (Console) and
 
 ---
 
-## 📜 Certification Alignment
-
-This lab covers objectives from:
-- **CLF-C02:** Domain 3 — Cloud Technology and Services
-- **DVA-C02:** Domain 1 — Development with AWS Services
-
----
-
 [← Return to Index](../../../README-en.md)

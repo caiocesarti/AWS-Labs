@@ -106,12 +106,4 @@ Estabelecimento de infraestrutura de Storage com foco em resiliência e delegaç
 
 ---
 
-## 📜 Alinhamento com Certificações
-
-Este lab engole objetivos de engenharia testados em avaliações de segurança:
-- **CLF-C02:** Domínio 3 — Tecnologia e Serviços de Cloud
-- **SAA-C03:** Domínio 4 — Arquitetura Otimizada em Custo
-
----
-
 [← Voltar ao índice](../../../README.md)
