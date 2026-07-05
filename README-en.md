@@ -3,7 +3,7 @@
 
   <br/>
 
-  ![Labs](https://img.shields.io/badge/labs-32-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+  ![Labs](https://img.shields.io/badge/labs-33-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
   ![Domains](https://img.shields.io/badge/domains-7-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -30,7 +30,7 @@ Repository with practical AWS labs organized by product domain. Each lab documen
 | ----------------------- | ---- | ----------------------------------------------- |
 | ⚡ Serverless            | 8    | Lambda, API Gateway, SNS, SQS, DLQ, EventBridge, Step Functions |
 | 🔒 Security & Compliance | 8    | IAM, STS, KMS, CloudWatch, CloudTrail, SSM      |
-| 🌐 Network & Delivery    | 3    | VPC, CloudFront, API Gateway                    |
+| 🌐 Network & Delivery    | 4    | VPC, CloudFront, API Gateway, VPC Lattice, ALB  |
 | 📦 Storage               | 4    | S3, EBS, Bucket Policy, Lifecycle, DLM          |
 | 🗄️ Database              | 3    | DynamoDB, LSI, GSI, Boto3                       |
 | 🖥️ Compute               | 4    | EC2, Elastic Beanstalk, Auto Scaling, ALB       |
@@ -114,7 +114,7 @@ Repository with practical AWS labs organized by product domain. Each lab documen
 
 </details>
 <details>
-<summary><b>🌐 Network and Content Delivery</b> (3 Labs)</summary>
+<summary><b>🌐 Network and Content Delivery</b> (4 Labs)</summary>
 <br>
 
 
@@ -128,6 +128,9 @@ Repository with practical AWS labs organized by product domain. Each lab documen
 
 - **03. [Amazon API Gateway](./labs/4-network-and-content-delivery/03-api-gateway-introduction/)** | `🟢 Foundational`
   > Serverless microservice with Lambda integration
+
+- **04. [AWS Application Networking Demonstrated](./labs/4-network-and-content-delivery/04-aws-application-networking-demonstrated/)** | `🔴 Advanced`
+  > Practical Exam Lab: service mesh with VPC Lattice, ECS, ALB, and CloudFront
 
 </details>
 <details>
