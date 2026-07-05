@@ -3,7 +3,7 @@
 
   <br/>
 
-  ![Labs](https://img.shields.io/badge/labs-34-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+  ![Labs](https://img.shields.io/badge/labs-35-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
   ![Domains](https://img.shields.io/badge/domains-7-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -34,7 +34,7 @@ Repositório com laboratórios práticos de AWS organizados por domínio de prod
 | 📦 Storage                | 4    | S3, EBS, Bucket Policy, Lifecycle, DLM          |
 | 🗄️ Database               | 3    | DynamoDB, LSI, GSI, Boto3                       |
 | 🖥️ Compute                | 4    | EC2, Elastic Beanstalk, Auto Scaling, ALB       |
-| 🤖 Generative AI           | 2    | Amazon Quick, Spaces, Chat Agents, Flows, Research, Connectors |
+| 🤖 Generative AI           | 3    | Amazon Bedrock, Amazon Quick, Spaces, Chat Agents, Flows, Research |
 
 ---
 
@@ -196,7 +196,7 @@ Repositório com laboratórios práticos de AWS organizados por domínio de prod
 
 </details>
 <details>
-<summary><b>🤖 Generative AI</b> (2 Labs)</summary>
+<summary><b>🤖 Generative AI</b> (3 Labs)</summary>
 <br>
 
 
@@ -206,6 +206,9 @@ Repositório com laboratórios práticos de AWS organizados por domínio de prod
 
 - **02. [Pesquisando e Criando Fluxos com Amazon Quick](./labs/7-generative-ai/02-quicksight-flows/)** | `🟡 Intermediário`
   > Quick Research, Flows, conectores OpenAPI e fluxo de integração de funcionários
+
+- **03. [Explorando Playgrounds do Amazon Bedrock](./labs/7-generative-ai/03-explorando-playground-bedrock/)** | `🟢 Fundamental`
+  > Comparação de LLMs, ajuste de hiperparâmetros e gestão de prompts
 
 </details>
 
