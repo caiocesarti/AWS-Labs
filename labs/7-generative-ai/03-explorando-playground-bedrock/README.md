@@ -124,4 +124,10 @@ Conforme ilustrado, o fluxo envolve o **Amazon Bedrock** servindo como plataform
 
 ---
 
+## 🔗 Referências
+
+- [AWS Skill Builder](https://explore.skillbuilder.aws/)
+
+---
+
 [← Voltar ao índice](../../../README.md)

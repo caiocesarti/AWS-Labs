@@ -124,4 +124,10 @@ As illustrated, the flow involves **Amazon Bedrock** acting as the orchestration
 
 ---
 
+## 🔗 References
+
+- [AWS Skill Builder](https://explore.skillbuilder.aws/)
+
+---
+
 [← Back to Index](../../../README-en.md)
