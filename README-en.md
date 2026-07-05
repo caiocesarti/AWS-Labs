@@ -3,7 +3,7 @@
 
   <br/>
 
-  ![Labs](https://img.shields.io/badge/labs-33-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+  ![Labs](https://img.shields.io/badge/labs-34-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
   ![Domains](https://img.shields.io/badge/domains-7-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -29,7 +29,7 @@ Repository with practical AWS labs organized by product domain. Each lab documen
 | Domain                  | Labs | Technologies                                    |
 | ----------------------- | ---- | ----------------------------------------------- |
 | ⚡ Serverless            | 8    | Lambda, API Gateway, SNS, SQS, DLQ, EventBridge, Step Functions |
-| 🔒 Security & Compliance | 8    | IAM, STS, KMS, CloudWatch, CloudTrail, SSM      |
+| 🔒 Security & Compliance | 9    | IAM, STS, KMS, CloudWatch, CloudTrail, SSM, Athena, Config |
 | 🌐 Network & Delivery    | 4    | VPC, CloudFront, API Gateway, VPC Lattice, ALB  |
 | 📦 Storage               | 4    | S3, EBS, Bucket Policy, Lifecycle, DLM          |
 | 🗄️ Database              | 3    | DynamoDB, LSI, GSI, Boto3                       |
@@ -77,7 +77,7 @@ Repository with practical AWS labs organized by product domain. Each lab documen
 
 </details>
 <details>
-<summary><b>🔒 Security, Identity, and Compliance</b> (8 Labs)</summary>
+<summary><b>🔒 Security, Identity, and Compliance</b> (9 Labs)</summary>
 <br>
 
 
@@ -111,6 +111,9 @@ Repository with practical AWS labs organized by product domain. Each lab documen
 
 - **08. [AWS KMS: Key Management](./labs/5-security-identity-compliance/08-aws-kms-introduction/)** | `🟡 Intermediate`
   > Symmetric key lifecycle, SSE-KMS, and auditing with CloudTrail
+
+- **09. [AWS Incident Response Demonstrated](./labs/5-security-identity-compliance/09-aws-incident-response-demonstrated/)** | `🔴 Advanced`
+  > Practical Exam Lab: forensics with Athena, containment via NACLs, and AWS Config
 
 </details>
 <details>
