@@ -3,7 +3,7 @@
 
   <br/>
 
-  ![Labs](https://img.shields.io/badge/labs-31-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+  ![Labs](https://img.shields.io/badge/labs-32-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
   ![Domains](https://img.shields.io/badge/domains-7-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -28,7 +28,7 @@ Repositório com laboratórios práticos de AWS organizados por domínio de prod
 
 | Domínio                  | Labs | Tecnologias                                     |
 | ------------------------ | ---- | ----------------------------------------------- |
-| ⚡ Serverless             | 7    | Lambda, API Gateway, SNS, SQS, DLQ, EventBridge |
+| ⚡ Serverless             | 8    | Lambda, API Gateway, SNS, SQS, DLQ, EventBridge, Step Functions |
 | 🔒 Segurança & Compliance | 8    | IAM, STS, KMS, CloudWatch, CloudTrail, SSM      |
 | 🌐 Rede & Entrega         | 3    | VPC, CloudFront, API Gateway                    |
 | 📦 Storage                | 4    | S3, EBS, Bucket Policy, Lifecycle, DLM          |
@@ -41,7 +41,7 @@ Repositório com laboratórios práticos de AWS organizados por domínio de prod
 ## Labs
 
 <details>
-<summary><b>⚡ Serverless</b> (7 Labs)</summary>
+<summary><b>⚡ Serverless</b> (8 Labs)</summary>
 <br>
 
 
@@ -71,6 +71,9 @@ Repositório com laboratórios práticos de AWS organizados por domínio de prod
 
 - **07. [S3 Event Notifications](./labs/6-serverless/07-s3-sns-sqs-events/)** | `🔴 Avançado`
   > Auditoria disparada por eventos nativos de bucket
+
+- **08. [AWS Serverless Demonstrated](./labs/6-serverless/08-aws-serverless-demonstrated/)** | `🔴 Avançado`
+  > Exam Lab prático: orquestração de e-commerce com Step Functions, segurança com WAF e CI/CD
 
 </details>
 <details>
